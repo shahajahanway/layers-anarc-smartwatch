@@ -1,12 +1,38 @@
-# React + Vite
+# Layers × ANARC – Smartwatch Experience 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A futuristic product showcase for the ANARC smartwatch brand, inspired by [Layers.shop](https://layers.shop) and built with 💻 ReactJS + TailwindCSS.
 
-Currently, two official plugins are available:
+> “Reimagining the future of wearables with scroll-triggered storytelling and immersive visuals.”
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🔥 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎬 Scroll-controlled brand film intro (video experience)
+- 🎥 Video autoplay with mute/unmute and fallback
+- ✨ Text animations (ReactBits.dev)
+- 🖼️ Left & Right split-panel product info reveal
+- 📱 Responsive design
+- 🌀 Smooth animations with Tailwind + React
+
+---
+
+## 🧠 Tech Stack
+
+- ReactJS
+- TailwindCSS
+- React Router DOM
+- ReactBits.dev components
+- Lucide Icons
+- Vite
+
+---
+
+## 🛠️ Installation
+
+```bash
+git clone https://github.com/YOUR_USERNAME/layers-anarc-smartwatch.git
+cd layers-anarc-smartwatch
+npm install
+npm run dev
+
